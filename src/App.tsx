@@ -1,10 +1,10 @@
-import { Header, Grid } from "./sections";
+import { Header, About } from "./sections";
 
 const App = () => {
   return (
     <div>
       <Header />
-      <Grid />
+      <About />
     </div>
   );
 };
